@@ -1,4 +1,4 @@
-# Robot-control-app-accelhandler
+# Robot-control-app-accelerometer
 App android to have the robot control using accelerometer, Matrix operations and Sockets Class.
 
 ## Tools
